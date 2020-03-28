@@ -1,2 +1,2 @@
 # PSO_NeuralNetwork
-Backprobagation NeuralNetwork + PSO optimizer
+Fully connected NeuralNetwork + PSO optimizer
